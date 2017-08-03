@@ -48,7 +48,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
       <h1>IntroL</h1>
       <h5 class="w3-padding-32"> Whether you own a laptop or desktop they all have similar parts. 
       Many people don't know a lot about the makings of their devices, but there is a lot of information that 
-      can be useful when there is a problem with your device.
+      can be useful when there is a problem with your device.h
       <p class="w3-text-grey">test</p>
     </div>
 
