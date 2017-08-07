@@ -46,11 +46,11 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
   <div class="w3-content">
     <div class="w3-twothird">
       <h1>Intro</h1>
-      <h5 class="w3-padding-32">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h5>
-
-      <p class="w3-text-grey">Whether you own a laptop or desktop they all have similar parts. 
+      <h5 class="w3-padding-32">Whether you own a laptop or desktop they all have similar parts. 
       Many people don't know a lot about the makings of their devices, but there is a lot of information that 
-      can be useful when there is a problem with your device.</p>
+      can be useful when there is a problem with your device.</h5>
+
+      <p class="w3-text-grey">Fun Fact: If there was a computer as powerful as the human brain, it would be able to do 38 thousand trillion operations per second and hold more than 3580 terabytes of memory.</p>
     </div>
 
     <div class="w3-third w3-center">
@@ -68,11 +68,10 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 
     <div class="w3-twothird">
       <h1>Lorem Ipsum</h1>
-      <h5 class="w3-padding-32">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h5>
+      <h5 class="w3-padding-32">For many desktop computers, the processor and the hardware that holds the computer memory are housed in a metal case. Almost all of the pieces are connected to the main circuit board of the computer, the motherboard. The power supply supplies power to all the other parts. Numerous input devices (such as the keyboard) and output devices (such as the monitor) are attached through connectors on the back of the case.
+</h5>
 
-      <p class="w3-text-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-        laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <p class="w3-text-grey">Fun Fact: The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet.</p>
     </div>
   </div>
 </div>
