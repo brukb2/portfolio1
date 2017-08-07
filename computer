@@ -67,7 +67,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
     </div>
 
     <div class="w3-twothird">
-      <h1>Lorem Ipsum</h1>
+      <h1>Desktops</h1>
       <h5 class="w3-padding-32">For many desktop computers, the processor and the hardware that holds the computer memory are housed in a metal case. Almost all of the pieces are connected to the main circuit board of the computer, the motherboard. The power supply supplies power to all the other parts. Numerous input devices (such as the keyboard) and output devices (such as the monitor) are attached through connectors on the back of the case.
 </h5>
 
