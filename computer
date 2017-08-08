@@ -34,11 +34,16 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
   </div>
 </div>
 
-<!-- Header -->
+<!-- Header / Website Link-->
 <header class="w3-container w3-red w3-center" style="padding:128px 16px">
   <h1 class="w3-margin w3-jumbo">Parts of a Computer</h1>
   <p class="w3-xlarge">by Bruk, Luwam, Mayra, & Sachi</p>
-  <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Go to Game</button>
+
+  <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top"</a></p>
+
+
+  <p>Go to <a href="https://scratch.mit.edu/projects/170262073/" target="_blank">Game</a></p>
+</footer>
 </header>
 
 <!-- First Grid -->
@@ -46,52 +51,104 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
   <div class="w3-content">
     <div class="w3-twothird">
       <h1>Intro</h1>
-      <h5 class="w3-padding-32">Whether you own a laptop or desktop they all have similar parts. 
-      Many people don't know a lot about the makings of their devices, but there is a lot of information that 
+      <h5 class="w3-padding-32">Whether you own a laptop or desktop they all have similar parts.
+      Many people don't know a lot about the makings of their devices, but there is a lot of information that
       can be useful when there is a problem with your device.</h5>
+
 
       <p class="w3-text-grey">Fun Fact: If there was a computer as powerful as the human brain, it would be able to do 38 thousand trillion operations per second and hold more than 3580 terabytes of memory.</p>
     </div>
 
-    <div class="w3-third w3-center">
-      <i class="fa fa-anchor w3-padding-64 w3-text-red"></i>
-    </div>-
-  </div>
-</div>
+
+<img src="http://cdn.windowsreport.com/wp-content/uploads/2016/08/laptop-keyboard-not-working-windows-10-720x480.jpg" alt="Mountain View" style="width:304px;height:228px;">
+   
 
 <!-- Second Grid -->
-<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
-  <div class="w3-content">
-    <div class="w3-third w3-center">
-      <i class="fa fa-coffee w3-padding-64 w3-text-red w3-margin-right"></i>
-    </div>
+
 
     <div class="w3-twothird">
-      <h1>Desktops</h1>
-      <h5 class="w3-padding-32">For many desktop computers, the processor and the hardware that holds the computer memory are housed in a metal case. Almost all of the pieces are connected to the main circuit board of the computer, the motherboard. The power supply supplies power to all the other parts. Numerous input devices (such as the keyboard) and output devices (such as the monitor) are attached through connectors on the back of the case.
+      <h1>Desktops</h1>    
+   <h5 class="w3-padding-32">For many desktop computers, the processor and the hardware that holds the computer memory are housed in a metal case. Almost all of the pieces are connected to the main circuit board of the computer, the motherboard. The power supply supplies power to all the other parts. Numerous input devices (such as the keyboard) and output devices (such as the monitor) are attached through connectors on the back of the case.
+</h5>
+<img src= "https://images-na.ssl-images-amazon.com/images/I/61xkZ5mljIL._SX355_.jpg" alt="Mountain View" style="width:304px;height:228px;">
+
+      <p class="w3-text-grey">Fun Fact: The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet. </p>
+    </div>
+ <!-- Third Grid -->
+<div class="w3-row-padding w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-twothird">
+      <h1>Internal Parts</h1>
+      <h5 class="w3-padding-32">
+    
+  
+PSU (power supply unit): converts outlet power and provides appropriate 	voltages and currents. <p>
+   <img src= "https://images-na.ssl-images-amazon.com/images/I/51X2cwxscvL._SY355_.jpg" alt="Mountain View" style="width:120px;height:80px;">
+
+<p>
+Motherboard: links the different components within a computer to allow communication between all the hardware components. the computer is unable to run without a motherboard. It holds the system memory, expansion slots, networking systems, audio, input/output systems and the central processing unit.
+<p>
+<img src= "https://support.hp.com/doc-images/131/c04579934.jpg" alt="Mountain View" style="width:120px;height:80px;">
+<P>
+
+Battery: The motherboard has a battery that retains the date and time.
+<p>
+CPU: central processing unit, the "brain" of the computer, most actual computation takes place here. Handles all the instructions given to the computer. <p>
+<img src= "http://www.byte-notes.com/sites/default/files/styles/large/public/field/image/central-processing-unit.jpg?itok=EmtJUEIw"  alt="Mountain View" style="width:120px;height:80px;">
+
+<p>
+RAM (random access memory): stores data of a computer and different sizes which shows how much space one has on their computer . Measured by (megabytes or gigabytes). A computer usually had from 8GB-16GB of ram. <P>
+<img src= "http://img.directindustry.com/images_di/kwref/kwref-g/4/6/78064.jpg" alt="Mountain View" style="width:120px;height:80px;">
+<p>
+ HDD (hard disk drive): long-term memory" of the computer contains storage 
+ <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Laptop-hard-drive-exposed.jpg/1200px-Laptop-hard-drive-exposed.jpg" alt="Mountain View" style="width:120px;height:80px;">
+<P>
 </h5>
 
-      <p class="w3-text-grey">Fun Fact: The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet.</p>
+
+      <p class="w3-text-grey">Fun Fact: The first microprocessor created by Intel was the 4004. It was designed for a calculator, and in that time nobody imagined where it would lead. </p>
     </div>
+
+    
+
+<!-- Fourth Grid -->
+
+
+    <div class="w3-twothird">
+      <h1>Optical Components</h1>
+      <h5 class="w3-padding-32">
+      <p> Optical Drive: device useful for reading/writing optical disks such as CDs, DVDs, or other optical media.
+      <p>
+GPU/Graphics Card: does processing relating to video output
+<p>
+Sound card : Comes with motherboard. Allows music to be played.
+
+</h5>
+
+      <p class="w3-text-grey">Fun Fact: More than 80% of the emails sent daily are spams!
   </div>
 </div>
 
-<div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
-    <h1 class="w3-margin w3-xlarge">Quote of the day: live life</h1>
+<!-- Fifth Grid -->
+<div class="w3-row-padding w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-twothird">
+      <h1>Internal Components</h1>
+      <h5 class="w3-padding-32">
+Keyboard : used for typing. Many motherboards won't even boot without a keyboard attached.
+<p>
+Mouse: used for pointing and clicking. A text-based operating system allows one to function without a mouse..
+<P>
+</h5>
+
+
+      <p class="w3-text-grey">Fun Fact: An average person normally blinks 20 times a minute, but when using a computer he/she blinks only 7 times a minute. </p>
+
+    </div>
+
+  
 </div>
 
-<!-- Footer -->
-<footer class="w3-container w3-padding-64 w3-center w3-opacity">  
-  <div class="w3-xlarge w3-padding-32">
-    <i class="fa fa-facebook-official w3-hover-opacity"></i>
-    <i class="fa fa-instagram w3-hover-opacity"></i>
-    <i class="fa fa-snapchat w3-hover-opacity"></i>
-    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
-    <i class="fa fa-twitter w3-hover-opacity"></i>
-    <i class="fa fa-linkedin w3-hover-opacity"></i>
- </div>
- <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
-</footer>
 
 <script>
 // Used to toggle the menu on small screens when clicking on the menu button
@@ -99,11 +156,8 @@ function myFunction() {
     var x = document.getElementById("navDemo");
     if (x.className.indexOf("w3-show") == -1) {
         x.className += " w3-show";
-    } else { 
+    } else {
         x.className = x.className.replace(" w3-show", "");
     }
 }
 </script>
-
-</body>
-</html>
